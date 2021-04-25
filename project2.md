@@ -1,33 +1,30 @@
-**Step 1 – Installing the Nginx Web Server:**
+***Step 1 – Installing the Nginx Web Server:***
 
-![](media/image1.png){width="5.6194444444444445in"
-height="2.798611111111111in"}
+![image](https://user-images.githubusercontent.com/81834321/115985086-12956e00-a5a2-11eb-8a02-240cc9252d3a.png)
+![image](https://user-images.githubusercontent.com/81834321/115985107-293bc500-a5a2-11eb-9f86-6ae0fdc68b35.png)
 
-![](media/image2.png){width="5.932645450568679in"
-height="3.034384295713036in"}![](media/image3.tif){width="6.692361111111111in"
-height="3.245833333333333in"}
+***Step 2 — Installing MySQL:***!
+![image](https://user-images.githubusercontent.com/81834321/115985169-80419a00-a5a2-11eb-8fe8-d14846a22cdb.png)
+![image](https://user-images.githubusercontent.com/81834321/115985181-93ed0080-a5a2-11eb-9261-6f26064d6897.png)
 
-![](media/image4.png){width="6.692361111111111in"
-height="1.4736111111111112in"}**Step 2 — Installing
-MySQL:**![](media/image3.tif){width="6.6929757217847765in"
-height="3.2460608048993875in"}
+**Step 3 – Installing PHP:**
+![image](https://user-images.githubusercontent.com/81834321/115985236-cc8cda00-a5a2-11eb-861e-4eb8acd28e7c.png)
 
-![](media/image5.png){width="6.692361111111111in"
-height="2.339583333333333in"}**Step 3 – Installing PHP:**
 
-![](media/image6.tif){width="6.692361111111111in"
-height="1.65625in"}![](media/image6.tif){width="6.692361111111111in"
-height="1.604861111111111in"}**Step 4 — Configuring Nginx to Use PHP
-Processor:**
+**Step 4 — Configuring Nginx to Use PHP Processor:**
+![image](https://user-images.githubusercontent.com/81834321/115985240-d44c7e80-a5a2-11eb-9aff-1fb288d0ec95.png)
+![image](https://user-images.githubusercontent.com/81834321/115985245-d9a9c900-a5a2-11eb-86a3-ad5c0812643e.png)
 
-![](media/image7.tif){width="6.6929757217847765in"
-height="2.0589260717410323in"}![](media/image7.tif){width="6.692361111111111in"
-height="2.058333333333333in"}**Step-5 Retrieving data from MySQL
-database with PHP:**
 
-![](media/image8.tif){width="6.3847178477690285in"
-height="1.862765748031496in"}**Step-6: Final output on the browser:**
 
-![](media/image9.png){width="6.692361111111111in"
-height="3.076388888888889in"}![](media/image9.png){width="6.692361111111111in"
-height="3.076388888888889in"}
+**Step-5 Retrieving data from MySQLdatabase with PHP:**
+![image](https://user-images.githubusercontent.com/81834321/115985250-e2020400-a5a2-11eb-8842-c1a491c18334.png)
+![image](https://user-images.githubusercontent.com/81834321/115985259-e8907b80-a5a2-11eb-818f-67ebdc06109e.png)
+
+
+
+**Step-6: Final output on the browser:**
+![image](https://user-images.githubusercontent.com/81834321/115985266-f1814d00-a5a2-11eb-8014-8d8887b02c30.png)
+
+
+
