@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/81834321/117986075-317d5980-b331-11eb-80da-4fc4b4446ebf.png)
 
 # Testing Backend Code without Frontend using RESTful API
-
+![image](https://user-images.githubusercontent.com/81834321/118214310-67245e80-b467-11eb-813a-202ada0fa7c3.png)
 ## To create POST Request
 
 ![image](https://user-images.githubusercontent.com/81834321/118214009-f11ff780-b466-11eb-87bc-6c3b097fd793.png)
@@ -47,4 +47,3 @@ http://3.128.200.225:3000/
 
 
 
-![image](https://user-images.githubusercontent.com/81834321/118214310-67245e80-b467-11eb-813a-202ada0fa7c3.png)
