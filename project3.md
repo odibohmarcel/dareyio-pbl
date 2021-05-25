@@ -30,9 +30,21 @@
 
 ![image](https://user-images.githubusercontent.com/81834321/118214009-f11ff780-b466-11eb-87bc-6c3b097fd793.png)
 
-## To create GET Request***
+## To create GET Request
 ![image](https://user-images.githubusercontent.com/81834321/118214310-67245e80-b467-11eb-813a-202ada0fa7c3.png)
 
 # Frontend creation
+![image](https://user-images.githubusercontent.com/81834321/119542879-f3982080-bd87-11eb-8dfb-539aa4d9b3ac.png)
+## Configure Proxy in package.json
+![image](https://user-images.githubusercontent.com/81834321/119553996-192b2700-bd94-11eb-9429-c60636939007.png)
+http://3.128.200.225:3000/
+## Creating your React Components
+![image](https://user-images.githubusercontent.com/81834321/119555249-8ee3c280-bd95-11eb-8976-93ada8dc768b.png)
+![image](https://user-images.githubusercontent.com/81834321/119555995-64463980-bd96-11eb-95e9-c64f0cf8b06d.png)
+![image](https://user-images.githubusercontent.com/81834321/119556256-ad968900-bd96-11eb-99f2-86befa968317.png)
+![image](https://user-images.githubusercontent.com/81834321/119556878-6ceb3f80-bd97-11eb-870c-48639892c8de.png)
 
 
+
+
+![image](https://user-images.githubusercontent.com/81834321/118214310-67245e80-b467-11eb-813a-202ada0fa7c3.png)
