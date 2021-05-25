@@ -44,6 +44,13 @@ http://3.128.200.225:3000/
 ![image](https://user-images.githubusercontent.com/81834321/119556256-ad968900-bd96-11eb-99f2-86befa968317.png)
 ![image](https://user-images.githubusercontent.com/81834321/119556878-6ceb3f80-bd97-11eb-870c-48639892c8de.png)
 
+![image](https://user-images.githubusercontent.com/81834321/119557718-732deb80-bd98-11eb-96aa-06215b46a581.png)
+![image](https://user-images.githubusercontent.com/81834321/119557963-c011c200-bd98-11eb-8a4c-84b2b119d2cd.png)
+
+## Finally
+![image](https://user-images.githubusercontent.com/81834321/119558298-226ac280-bd99-11eb-8e17-e5005c4279af.png)
+
+
 
 
 
