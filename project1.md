@@ -17,3 +17,4 @@
 * [virtual host creation](https://github.com/odibohmarcel/images/blob/4bc8a8fdeea700a33a84018cdf2c1ba8a57de0fd/Virtual%20host%20created.PNG)
 * disabling default virtual host
 * serving index.php from the server
+* I done with this project. looking forward to a more fulling one. Many thanks.
