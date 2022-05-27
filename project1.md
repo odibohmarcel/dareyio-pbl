@@ -18,3 +18,4 @@
 * disabling default virtual host
 * serving index.php from the server
 * I done with this project. looking forward to a more fulling one. Many thanks.
+* is there anything else I need to do here!
